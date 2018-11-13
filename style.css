@@ -52,3 +52,7 @@ input[type=reset],
 input[type=submit] {
 	background-color: #003b75;
 }
+
+input[type=search] {
+	-webkit-appearance: none;
+}
